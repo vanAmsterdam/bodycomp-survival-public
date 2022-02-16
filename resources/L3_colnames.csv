@@ -1,0 +1,43 @@
+oldname,newname,include,type
+dirname,dirname,0,meta
+numfiles,numfiles,0,meta
+idx,idx,0,meta
+filename,filename,1,meta
+series_uid,series_uid,1,scan
+Patient ID,scantag,1,patient
+Patient name,patient_name,0,patient
+Study ID,study_uid,1,scan
+Study UID,study_uid,1,scan
+Accession number,accesssion_number,1,scan
+Series description,series_description,1,scan
+Series ID,series_uid,1,scan
+Series UID,series_uid,1,scan
+Sex,sex,0,patient
+Scan date,scan_date,1,scan
+Birth date,birth_date,0,patient
+Report date,measurement_date,1,meta
+L3 slice index,l3_slice_index,1,meta
+Slice thickness,slice_thickness,1,scan
+Subcutaneous fat,subcutaneous_fat,1,measurement
+Visceral fat,visceral_fat,1,measurement
+Area HU >= -30 Psoas muscle,psoas_muscle,1,measurement
+Area HU >= -30 Abdominal muscle,abdominal_muscle,1,measurement
+Area HU >= -30 Long spine muscle,long_spine_muscle,1,measurement
+Visceral to subcutaneous fat ratio,visceral_to_subcutaneous_fat_ratio,1,measurement
+Total fat to muscle ratio,total_fat_to_muscle_ratio,1,measurement
+Total slice area,total_slice_area,1,measurement
+Total slice circumference,total_slice_circumference,1,measurement
+Mean HU Subcutaneous fat,mean_HU_subcutaneous_fat,1,measurement
+Mean HU Visceral fat,mean_HU_visceral_fat,1,measurement
+Mean HU Psoas muscle,mean_HU_psoas_muscle,1,measurement
+Mean HU Abdominal muscle,mean_HU_abdominal_muscle,1,measurement
+Mean HU Long spine muscle,mean_HU_long_spine_muscle,1,measurement
+HU Subcutaneous fat,mean_HU_subcutaneous_fat,1,measurement
+HU Visceral fat,mean_HU_visceral_fat,1,measurement
+HU Psoas muscle,mean_HU_psoas_muscle,1,measurement
+HU Abdominal muscle,mean_HU_abdominal_muscle,1,measurement
+HU Long spine muscle,mean_HU_long_spine_muscle,1,measurement
+series_uid_filename,series_uid_filename,1,meta
+series_uid_n,series_uid_n,1,meta
+dicom_serie_pks,dicom_serie_pks,1,meta
+check_ok,check_ok,1,meta

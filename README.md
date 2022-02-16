@@ -2,8 +2,6 @@
 
 Newest version on [github](https://github.com/vanAmsterdam/bodycomp-survival-public/)
 
-Here is the archived version that is referenced in the original publication: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5235383.svg)](https://doi.org/10.5281/zenodo.5235383)
-
 ## How to reproduce
 
 - most of the code assumes that there are data files in a subdirectory called 'data', these cannot be provided here due to privacy regulations

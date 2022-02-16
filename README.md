@@ -1,6 +1,6 @@
 # Code for: The association between muscle quantity and overall survival depends on muscle radiodensity: a cohort study in non-small cell lung cancer
 
-Newest version on [github](https://github.com/vanAmsterdam/bodycomp-survival-public/)
+Here is the archived version that is referenced in the original publication: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6107815.svg)](https://doi.org/10.5281/zenodo.6107815)
 
 ## How to reproduce
 
